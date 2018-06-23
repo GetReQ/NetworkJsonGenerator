@@ -1,0 +1,406 @@
+{
+    "Sections": [
+        {
+            "Id": 1,
+            "Label": "A1/101",
+            "Length": 125,
+            "Geometry": {
+                "Type": "Polyline",
+                "Coordinates": [
+                    {
+                        "Latitude": 51.54545,
+                        "Longitude": -0.103146
+                    },
+                    {
+                        "Latitude": 51.545315,
+                        "Longitude": -0.103249
+                    },
+                    {
+                        "Latitude": 51.545184,
+                        "Longitude": -0.103258
+                    },
+                    {
+                        "Latitude": 51.545023,
+                        "Longitude": -0.103281
+                    },
+                    {
+                        "Latitude": 51.544755,
+                        "Longitude": -0.103306
+                    },
+                    {
+                        "Latitude": 51.544583,
+                        "Longitude": -0.103325
+                    },
+                    {
+                        "Latitude": 51.54443,
+                        "Longitude": -0.103332
+                    }
+                ]
+            }
+        },
+        {
+            "Id": 2,
+            "Label": "A1/103",
+            "Length": 155,
+            "Geometry": {
+                "Type": "Polyline",
+                "Coordinates": [
+                    {
+                        "Latitude": 51.54545,
+                        "Longitude": -0.103146
+                    },
+                    {
+                        "Latitude": 51.545315,
+                        "Longitude": -0.103249
+                    },
+                    {
+                        "Latitude": 51.545184,
+                        "Longitude": -0.103258
+                    },
+                    {
+                        "Latitude": 51.545023,
+                        "Longitude": -0.103281
+                    },
+                    {
+                        "Latitude": 51.544755,
+                        "Longitude": -0.103306
+                    },
+                    {
+                        "Latitude": 51.544583,
+                        "Longitude": -0.103325
+                    },
+                    {
+                        "Latitude": 51.54443,
+                        "Longitude": -0.103332
+                    }
+                ]
+            }
+        },
+        {
+            "Id": 3,
+            "Label": "A1/105",
+            "Length": 45,
+            "Geometry": {
+                "Type": "Polyline",
+                "Coordinates": [
+                    {
+                        "Latitude": 51.54545,
+                        "Longitude": -0.103146
+                    },
+                    {
+                        "Latitude": 51.545315,
+                        "Longitude": -0.103249
+                    },
+                    {
+                        "Latitude": 51.545184,
+                        "Longitude": -0.103258
+                    },
+                    {
+                        "Latitude": 51.545023,
+                        "Longitude": -0.103281
+                    },
+                    {
+                        "Latitude": 51.544755,
+                        "Longitude": -0.103306
+                    },
+                    {
+                        "Latitude": 51.544583,
+                        "Longitude": -0.103325
+                    },
+                    {
+                        "Latitude": 51.54443,
+                        "Longitude": -0.103332
+                    }
+                ]
+            }
+        },
+        {
+            "Id": 4,
+            "Label": "A1/107",
+            "Length": 255,
+            "Geometry": {
+                "Type": "Polyline",
+                "Coordinates": [
+                    {
+                        "Latitude": 51.54545,
+                        "Longitude": -0.103146
+                    },
+                    {
+                        "Latitude": 51.545315,
+                        "Longitude": -0.103249
+                    },
+                    {
+                        "Latitude": 51.545184,
+                        "Longitude": -0.103258
+                    },
+                    {
+                        "Latitude": 51.545023,
+                        "Longitude": -0.103281
+                    },
+                    {
+                        "Latitude": 51.544755,
+                        "Longitude": -0.103306
+                    },
+                    {
+                        "Latitude": 51.544583,
+                        "Longitude": -0.103325
+                    },
+                    {
+                        "Latitude": 51.54443,
+                        "Longitude": -0.103332
+                    }
+                ]
+            }
+        },
+        {
+            "Id": 5,
+            "Label": "A55/102",
+            "Length": 75,
+            "Geometry": {
+                "Type": "Polyline",
+                "Coordinates": [
+                    {
+                        "Latitude": 51.54545,
+                        "Longitude": -0.103146
+                    },
+                    {
+                        "Latitude": 51.545315,
+                        "Longitude": -0.103249
+                    },
+                    {
+                        "Latitude": 51.545184,
+                        "Longitude": -0.103258
+                    },
+                    {
+                        "Latitude": 51.545023,
+                        "Longitude": -0.103281
+                    },
+                    {
+                        "Latitude": 51.544755,
+                        "Longitude": -0.103306
+                    },
+                    {
+                        "Latitude": 51.544583,
+                        "Longitude": -0.103325
+                    },
+                    {
+                        "Latitude": 51.54443,
+                        "Longitude": -0.103332
+                    }
+                ]
+            }
+        },
+        {
+            "Id": 6,
+            "Label": "A55/104",
+            "Length": 355,
+            "Geometry": {
+                "Type": "Polyline",
+                "Coordinates": [
+                    {
+                        "Latitude": 51.54545,
+                        "Longitude": -0.103146
+                    },
+                    {
+                        "Latitude": 51.545315,
+                        "Longitude": -0.103249
+                    },
+                    {
+                        "Latitude": 51.545184,
+                        "Longitude": -0.103258
+                    },
+                    {
+                        "Latitude": 51.545023,
+                        "Longitude": -0.103281
+                    },
+                    {
+                        "Latitude": 51.544755,
+                        "Longitude": -0.103306
+                    },
+                    {
+                        "Latitude": 51.544583,
+                        "Longitude": -0.103325
+                    },
+                    {
+                        "Latitude": 51.54443,
+                        "Longitude": -0.103332
+                    }
+                ]
+            }
+        },
+        {
+            "Id": 7,
+            "Label": "M40/211",
+            "Length": 525,
+            "Geometry": {
+                "Type": "Polyline",
+                "Coordinates": [
+                    {
+                        "Latitude": 51.54545,
+                        "Longitude": -0.103146
+                    },
+                    {
+                        "Latitude": 51.545315,
+                        "Longitude": -0.103249
+                    },
+                    {
+                        "Latitude": 51.545184,
+                        "Longitude": -0.103258
+                    },
+                    {
+                        "Latitude": 51.545023,
+                        "Longitude": -0.103281
+                    },
+                    {
+                        "Latitude": 51.544755,
+                        "Longitude": -0.103306
+                    },
+                    {
+                        "Latitude": 51.544583,
+                        "Longitude": -0.103325
+                    },
+                    {
+                        "Latitude": 51.54443,
+                        "Longitude": -0.103332
+                    }
+                ]
+            }
+        },
+        {
+            "Id": 8,
+            "Label": "M40/215",
+            "Length": 750,
+            "Geometry": {
+                "Type": "Polyline",
+                "Coordinates": [
+                    {
+                        "Latitude": 51.54545,
+                        "Longitude": -0.103146
+                    },
+                    {
+                        "Latitude": 51.545315,
+                        "Longitude": -0.103249
+                    },
+                    {
+                        "Latitude": 51.545184,
+                        "Longitude": -0.103258
+                    },
+                    {
+                        "Latitude": 51.545023,
+                        "Longitude": -0.103281
+                    },
+                    {
+                        "Latitude": 51.544755,
+                        "Longitude": -0.103306
+                    },
+                    {
+                        "Latitude": 51.544583,
+                        "Longitude": -0.103325
+                    },
+                    {
+                        "Latitude": 51.54443,
+                        "Longitude": -0.103332
+                    }
+                ]
+            }
+        },
+        {
+            "Id": 9,
+            "Label": "M40/219",
+            "Length": 1250,
+            "Geometry": {
+                "Type": "Polyline",
+                "Coordinates": [
+                    {
+                        "Latitude": 51.54545,
+                        "Longitude": -0.103146
+                    },
+                    {
+                        "Latitude": 51.545315,
+                        "Longitude": -0.103249
+                    },
+                    {
+                        "Latitude": 51.545184,
+                        "Longitude": -0.103258
+                    },
+                    {
+                        "Latitude": 51.545023,
+                        "Longitude": -0.103281
+                    },
+                    {
+                        "Latitude": 51.544755,
+                        "Longitude": -0.103306
+                    },
+                    {
+                        "Latitude": 51.544583,
+                        "Longitude": -0.103325
+                    },
+                    {
+                        "Latitude": 51.54443,
+                        "Longitude": -0.103332
+                    }
+                ]
+            }
+        },
+        {
+            "Id": 10,
+            "Label": "M40/221",
+            "Length": 1550,
+            "Geometry": {
+                "Type": "Polyline",
+                "Coordinates": [
+                    {
+                        "Latitude": 51.54545,
+                        "Longitude": -0.103146
+                    },
+                    {
+                        "Latitude": 51.545315,
+                        "Longitude": -0.103249
+                    },
+                    {
+                        "Latitude": 51.545184,
+                        "Longitude": -0.103258
+                    },
+                    {
+                        "Latitude": 51.545023,
+                        "Longitude": -0.103281
+                    },
+                    {
+                        "Latitude": 51.544755,
+                        "Longitude": -0.103306
+                    },
+                    {
+                        "Latitude": 51.544583,
+                        "Longitude": -0.103325
+                    },
+                    {
+                        "Latitude": 51.54443,
+                        "Longitude": -0.103332
+                    }
+                ]
+            }
+        }
+    ],
+    "Assets": [
+        {
+            "Id": 1,
+            "Code": "LC",
+            "Name": "Lamp column"
+        },
+        {
+            "Id": 2,
+            "Code": "SG",
+            "Name": "Sign"
+        },
+        {
+            "Id": 3,
+            "Code": "BR",
+            "Name": "Bridge"
+        },
+        {
+            "Id": 4,
+            "Code": "SB",
+            "Name": "Safety Barrier"
+        }
+    ]
+}
